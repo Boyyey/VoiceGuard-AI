@@ -1,0 +1,15 @@
+voice-deepfake-detector/
+├── app.py
+├── requirements.txt
+├── model/
+│   ├── train_detector.py
+│   ├── deepfake_detector.pkl
+│   └── scaler.pkl
+├── data/
+│   ├── real/        ← .wav files
+│   └── fake/        ← .wav files
+├── scripts/
+│   └── generate_demo_audio.py
+└── utils/
+    ├── audio_processing.py
+    └── model_inference.py
