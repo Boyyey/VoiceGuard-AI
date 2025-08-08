@@ -8,7 +8,6 @@
 > A machine learning system to detect AI-generated (synthetic) voices and combat audio deepfakes.  
 > Uses MFCCs, spectral features, and XGBoost with SHAP explainability.
 
-![Demo Screenshot](assets/screenshot.png)
 
 ## 🎯 Purpose
 Voice cloning and deepfakes are rising threats in misinformation, fraud, and identity theft.  
@@ -186,3 +185,4 @@ if st.button("🎤 Analyze Live (Simulated)"):
 ```
 
 Or use WebRTC for true real-time (advanced).
+
