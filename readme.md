@@ -92,19 +92,6 @@ Open http://localhost:8501 in your browser.
 
 ---
 
-## 📷 Demo Screenshots
-
-### Detection Tab
-![Detection UI](assets/detection_ui.png)
-
-### SHAP Explanation
-![SHAP Explanation](assets/shap_plot.png)
-
-### Voice Clone Demo
-![Clone Demo](assets/clone_demo.png)
-
----
-
 ## 🛑 Ethical Use Notice
 
 This tool is for **education, research, and security awareness only**.  
@@ -185,4 +172,5 @@ if st.button("🎤 Analyze Live (Simulated)"):
 ```
 
 Or use WebRTC for true real-time (advanced).
+
 
